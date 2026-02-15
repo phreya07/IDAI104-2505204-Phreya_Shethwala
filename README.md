@@ -1,7 +1,7 @@
 # IDAI104-2505204-Phreya_Shethwala
 Rocket Launch Path Visualization is an interactive Streamlit web app that analyzes real rocket mission data and simulates rocket motion using physics-based equations. It helps users understand how thrust, payload, fuel, and drag affect launch performance through visual graphs and dynamic controls.
 
-# Project Overview
+# Project Overview 
 
 The Rocket Launch Path Visualization project is an interactive Streamlit web application that analyzes real-world rocket mission data and combines it with a physics-based rocket launch simulation.
 
