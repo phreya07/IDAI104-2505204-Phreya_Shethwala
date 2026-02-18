@@ -279,4 +279,4 @@ Builds experience in web app deployment
 
 This project successfully integrates mathematics, physics, and data analysis into a complete interactive web application. By combining rocket simulation with real mission data, it demonstrates how mathematical models can be used to understand complex aerospace systems. The project shows the importance of proper data cleaning, visualization, and simulation in making informed decisions. It highlights how AI and mathematical modeling can be applied to real-world engineering problems. Overall, this project demonstrates strong problem understanding, proper data handling, effective visualization, and successful deployment, meeting all the objectives of the Mathematics for AI course.
 
-Streamlit App: https://idai104-2505204-phreyashethwala-pwm4wxwnrcw87plp3fttnb.streamlit.app/
+Streamlit App: https://idai104-2505204-phreyashethwala-ncuwbutseqxpsawuy7ykjd.streamlit.app/
