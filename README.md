@@ -228,6 +228,33 @@ Insight: Crew size variation may influence mission complexity.
 Purpose: Show relationships between all numeric variables.
 Insight: Payload, fuel, and cost often show strong positive relationships.
 
+# Automated Analysis Report
+
+The app generates a structured summary report including:
+
+Volatility level
+
+Trend direction
+
+Stability observation
+
+Market behavior interpretation
+
+
+# Analytical Explanation
+
+This section explains how each parameter shapes price movement:
+
+Amplitude – Controls peak-to-trough movement
+
+Frequency – Determines how rapidly price oscillates
+
+Positive Drift – Creates upward trend
+
+Negative Drift – Creates downward trend
+
+Noise – Simulates real-world randomness
+
 # Interactivity Features
 
 Dropdown filters for Mission Type
