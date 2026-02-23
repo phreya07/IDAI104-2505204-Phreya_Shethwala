@@ -65,15 +65,19 @@ This explains why rockets move faster after launch.
 # Research Questions Answered
 
 1) How does adding more payload affect altitude?
+
 When payload increases, rocket mass increases. More thrust and more fuel are required to reach high altitude.
 
 2) How does increasing thrust affect launch success?
+
 Higher thrust increases acceleration. This helps the rocket overcome gravity faster and improves the chances of successful launch.
 
 3) Does lower drag at higher altitude improve speed?
+
 Yes. Because air density decreases at high altitude, drag becomes smaller and the rocket moves more efficiently.
 
 4) Can simulation results be compared to real mission data?
+
 Yes. For example, if simulation shows that heavier payload requires more fuel, the dataset also shows a positive relationship between payload weight and fuel consumption.
 
 # Real-World Importance
